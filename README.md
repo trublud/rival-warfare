@@ -7,7 +7,7 @@ If you have any questions and you don't want to make an issue, feel free to join
 
 
 
-** Some issues as the npm packages are outdated**
+**Some issues as the npm packages are outdated**
 But this should work for most people
 `npm i --force`
 `npm run build`
