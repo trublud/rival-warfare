@@ -30,6 +30,6 @@
 ## Known issues
 
 #### RivalNUI npm packages deprecated
-
+#### Some weird requirements for the npm packages, python? Visual studio? Desktop development with c++? , all of these are fine. But whats the point in this "package manager" if i have to do 80% of the downloading manually ??
  
 
