@@ -118,11 +118,11 @@ RegisterNetEvent('RIVAL::vehiclePlaced', function(vehicleNetId, vehicleType)
 end)
 
 RegisterNetEvent('RIVAL::clearVehicles', function()
-  ANTICHEAT:iterateVehicles(function(vehicle)
-    if GetEntityModel(vehicle) ~= GetHashKey('miljet') then
-      DeleteEntity(vehicle)
-    end
-  end)
+  --ANTICHEAT:iterateVehicles(function(vehicle)
+   -- if GetEntityModel(vehicle) ~= GetHashKey('miljet') then
+    --  DeleteEntity(vehicle)
+  --  end
+ -- end)
 
   return true
 end)
